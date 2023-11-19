@@ -1,6 +1,9 @@
 # Spotify-Clone
 Spotify Clone is a web application developed using HTML, CSS, and JavaScript that aims to recreate the popular music streaming platform, Spotify. This project serves as a learning exercise and a demonstration of front-end development skills.
 
+![image](https://github.com/priyanshusangwan/online-music-player-/assets/94485015/2f66aeed-e2d7-48a5-9b78-dcd181d844f1)
+
+
 ## Features: 
 - 1.User-friendly interface: The application provides an intuitive and visually appealing interface, mimicking the design and layout of Spotify, allowing users to easily navigate and interact with the various features.
 - 2.Song playback: Users can browse and search for their favorite songs and artists, and play the tracks directly within the application. The player includes controls for play, pause, next, and previous tracks.
