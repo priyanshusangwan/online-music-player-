@@ -22,7 +22,3 @@ Spotify Clone is a web application developed using HTML, CSS, and JavaScript tha
 - CSS: Used for styling and visual enhancements, providing an appealing user interface.
 - JavaScript: Used for implementing interactive features, handling user actions, and dynamically updating the content.
 
-## Contributions :
-Contributions to this project are welcome! If you encounter any issues, have suggestions for improvements, or want to add new features, please feel free to open an issue or submit a pull request. Let's make Spotify Clone even better together!
-
-I hope you enjoy exploring and using Spotify Clone! Your feedback and contributions are highly appreciated. If you have any questions or need further assistance, please don't hesitate to reach out. Happy listening!
